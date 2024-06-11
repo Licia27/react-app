@@ -14,7 +14,7 @@ export default function Footer() {
           </a>{" "}
           and is{" "}
           <a
-            href=""
+            href="https://github.com/Licia27/react-app"
             target="_blank"
             rel="noreferrer"
           >
@@ -22,11 +22,11 @@ export default function Footer() {
           </a>{" "}
           and{" "}
           <a
-            href=""
+            href="https://github.com/Licia27/react-app"
             target="_blank"
             rel="noreferrer"
           >
-            hosted on Netlifly
+            hosted on Vercel
           </a>
         </p>
       </div>
