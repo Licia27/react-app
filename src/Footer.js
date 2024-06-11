@@ -23,7 +23,7 @@ export default function Footer() {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/Licia27/react-app"
+            href="https://react-app-psi-sable.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
